@@ -1,5 +1,5 @@
 {
-  "name": "@the-world-io/gulp-task-when",
+  "name": "@the-world.io/gulp-task-when",
   "version": "1.0.0",
   "description": "Conditionally orchestrate a gulp.series based on runtime conditions",
   "main": "out/index.js",
