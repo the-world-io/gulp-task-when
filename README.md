@@ -84,7 +84,7 @@ const { when, task, TaskFilterFactory, FILTERS } = require('@the-world.io/gulp-t
 const gulp = require('gulp');
 
 const CustomFilters = require('./CustomFilters');
-const { clean } = require('./grunt.std.tasks');
+const { clean } = require('./gulp.std.tasks');
 
 gulp.task('compile:ts', async () => {
     // Transpile typescript
